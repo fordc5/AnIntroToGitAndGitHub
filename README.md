@@ -1,7 +1,7 @@
 # Intro Git / GitHub Workshop
 
 
-Welcome to the Prisoner's Dilemma README. This page will tell you everything you need to know about the basics of **git**, **github**, and collaborating on **open-source** projects. 
+Welcome to the Introduction to Git and GitHub README. This page will tell you everything you need to know about the basics of **git** and **github**. Both of these tools are widely used in industry, schools, and many different disciplines.
 
 Within this repository (PrisonersDilemmaCSWorkshop), you will find this README along with various other files. These files are for the tournament you will be participating in: Prisoner's Dilemma.
 
