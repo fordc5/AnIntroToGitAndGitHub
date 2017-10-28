@@ -53,10 +53,8 @@ ii) At this stage, all of the code it still in the cloud, but we want to get a c
 3. A little pop-up will apear. Click the **Copy to clipboard** button on the right side.
 4. Open your terminal and type ```$ git clone [paste your url here]```. 
 
-iii) open the code Eclipse or another IDE/editor of your choice
-1. At the top of Eclipse select File -> Import -> General -> Existing Projects into Workspace
-2. Now navigate to where you cloned the repository locally. (i.e. select the folder presumably with the name: PrisonersDilemmaCSWorkshop).
-3. Click enter and now you should have the project listed in your Package Explorer sidebar.
+iii) open the code in the text editor of your choice
+1. e.g. if you have sublime, open sublime, go to File -> Open -> Find the Change.txt file
 
 Congratulations for making it this far! You have completed the hardest part. Often times with open source projects, getting the code locally without any bugs in the appropriate software is half the battle.
 
