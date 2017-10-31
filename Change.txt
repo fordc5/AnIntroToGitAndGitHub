@@ -1,10 +1,19 @@
-Add some text to this file:
+10/30/2017 5:15 PM
 
-* Whats the object-oriented way to become wealthy??
+Connor's bad jokes: 
 
-* What do you call it when a programmer throws up at IHOP?
+* Whats the object-oriented way to become wealthy?? inheritance
+The answer is inheritance 
+
+* What do you call it when a programmer throws up at IHOP? Stack overflow
+The answer is stack overflow
+
+Changed a second time
+
+
 
 
 
 
 why tho???
+
