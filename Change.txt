@@ -1,8 +1,10 @@
-
 10/30/2017 5:15 PM
 
 Connor's bad jokes: 
 
 * Whats the object-oriented way to become wealthy?? inheritance
+The answer is inheritance 
 
 * What do you call it when a programmer throws up at IHOP? Stack overflow
+The answer is stack overflow
+
