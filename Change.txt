@@ -1,5 +1,8 @@
 Add some text to this file:
 
 * Whats the object-oriented way to become wealthy??
-
+Inheritance
 * What do you call it when a programmer throws up at IHOP?
+Stack Overflow
+
+Changes made by Joe
